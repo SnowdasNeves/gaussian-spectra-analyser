@@ -1,0 +1,4 @@
+data/
+output.csv
+.idea
+gaussian_cross_section_calc.py
